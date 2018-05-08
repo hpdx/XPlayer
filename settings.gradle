@@ -1,0 +1,5 @@
+include ':app',
+        ':xplayer_common',
+        ':xplayer_pl',
+        ':xplayer_ijk',
+        ':xplayer_exomedia'
