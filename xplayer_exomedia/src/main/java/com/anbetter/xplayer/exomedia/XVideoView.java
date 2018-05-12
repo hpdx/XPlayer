@@ -12,6 +12,7 @@ import android.widget.FrameLayout;
 import com.anbetter.log.MLog;
 import com.anbetter.xplayer.common.IXMediaPlayer;
 import com.anbetter.xplayer.common.IXVideoView;
+import com.anbetter.xplayer.common.listener.IXVideoViewListener;
 import com.devbrackets.android.exomedia.core.video.scale.ScaleType;
 import com.devbrackets.android.exomedia.ui.widget.VideoView;
 
@@ -20,7 +21,7 @@ import com.devbrackets.android.exomedia.ui.widget.VideoView;
  *
  * Created by android_ls on 2018/4/18.
  *
- * @author 红果果 sli@yoozoo.com
+ * @author android_ls
  * @version 1.0
  */
 public class XVideoView extends FrameLayout implements IXVideoView {
@@ -146,6 +147,11 @@ public class XVideoView extends FrameLayout implements IXVideoView {
 
     @Override
     public void setSpeed(float speed) {
+
+    }
+
+    @Override
+    public void setVideoViewListener(IXVideoViewListener listener) {
 
     }
 

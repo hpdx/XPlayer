@@ -20,7 +20,7 @@ import tv.danmaku.ijk.media.player.IjkMediaPlayer;
  * <p>
  * Created by android_ls on 2018/4/20.
  *
- * @author 红果果 sli@yoozoo.com
+ * @author android_ls
  * @version 1.0
  */
 public class XMediaPlayer implements IMediaPlayer.OnPreparedListener, IMediaPlayer.OnCompletionListener,

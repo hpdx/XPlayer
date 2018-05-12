@@ -8,7 +8,7 @@ import android.view.View;
  * <p>
  * Created by android_ls on 2018/4/19.
  *
- * @author 红果果 sli@yoozoo.com
+ * @author android_ls
  * @version 1.0
  */
 public interface IXRenderView {

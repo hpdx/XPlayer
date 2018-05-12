@@ -8,17 +8,19 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import com.anbetter.log.MLog;
-import com.facebook.drawee.view.SimpleDraweeView;
-import com.facebook.fresco.helper.Phoenix;
 import com.anbetter.xplayer.common.IXRenderView;
 import com.anbetter.xplayer.common.IXVideoView;
 import com.anbetter.xplayer.ijk.delegate.XMediaPlayerDelegate;
 import com.anbetter.xplayer.model.VideoInfo;
+import com.facebook.drawee.view.SimpleDraweeView;
+import com.facebook.fresco.helper.Phoenix;
 
 import java.util.ArrayList;
 
 /**
- * @author 红果果 sli@yoozoo.com
+ * 视频列表数据适配器
+ *
+ * @author android_ls
  * @version 1.0
  * <p>
  * Created by android_ls on 2018/4/23.

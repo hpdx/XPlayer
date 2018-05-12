@@ -5,7 +5,7 @@ package com.anbetter.xplayer.common.listener;
  * <p>
  * Created by android_ls on 2018/5/8.
  *
- * @author 红果果 sli@yoozoo.com
+ * @author android_ls
  * @version 1.0
  */
 public interface IXVideoViewListener {

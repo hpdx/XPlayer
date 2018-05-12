@@ -17,7 +17,7 @@ import com.anbetter.xplayer.common.IXVideoView;
  * <p>
  * Created by android_ls on 2018/4/23.
  *
- * @author 红果果 sli@yoozoo.com
+ * @author android_ls
  * @version 1.0
  */
 public class XPlayerActivity extends AppCompatActivity {

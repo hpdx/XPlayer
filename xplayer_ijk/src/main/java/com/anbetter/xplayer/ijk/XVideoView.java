@@ -31,7 +31,7 @@ import tv.danmaku.ijk.media.player.IMediaPlayer;
  * <p>
  * Created by android_ls on 2018/4/19.
  *
- * @author 红果果 sli@yoozoo.com
+ * @author android_ls
  * @version 1.0
  * @see #setMediaPlayer(IXMediaPlayer mediaPlayer)
  * @see XMediaPlayerDelegate#getInstance()

@@ -24,7 +24,7 @@ import com.anbetter.xplayer.common.utils.XUtils;
  * <p>
  * Created by android_ls on 2018/4/26.
  *
- * @author 红果果 sli@yoozoo.com
+ * @author android_ls
  * @version 1.0
  */
 public class XDragVideoView extends FrameLayout implements IXVideoView {
